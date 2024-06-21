@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">verificadorNumerosPrimos</string>
+    <string name="titulo_principal">Verificar Primo</string>
+    <string name="descricao_principal">Informe um valor no campo abaixo e pressione no botão para verificar se um número é primo.</string>
+    <string name="hint_input_principal">Insira um valor inteiro</string>
+    <string name="verificar">Verificar</string>
+
+    <string name="resposta_positiva">É primo</string>
+    <string name="resposta_negativa">Não é primo</string>
+    <string name="erro_input">Por favor insira um número válido</string>
+    <string name="divisor">Divisor:</string>
+</resources>
